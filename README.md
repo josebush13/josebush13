@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @josebush13
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning cpt course
-- 💞️ I’m looking to collaborate on security
+- 🌱 I’m have done soc related course. intrested in defence as well as linux 
+- 💞️ I’m looking to collaborate on security.
 - 📫 How to reach me +97455724644
 
 <!---
